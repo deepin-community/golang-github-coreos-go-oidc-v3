@@ -1,5 +1,14 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-coreos-go-oidc-v3 (3.4.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+  [ Leo Antunes ]
+  * fix(debian): correct vcs url for v3
+
+ -- Reinhard Tartler <siretart@tauware.de>  Wed, 13 Sep 2023 15:27:07 -0400
+
+golang-github-coreos-go-oidc-v3 (3.4.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1024430)
+
+ -- Leo Antunes <costela@debian.org>  Sat, 19 Nov 2022 12:34:25 +0100
